@@ -4,6 +4,8 @@
 *.iws
 *.jar
 *.sw?
+*.sh
+*.adoc
 *~
 .#*
 .*.md.html
@@ -40,3 +42,5 @@ target
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+.idea
+gradle/wrapper/gradle-wrapper.properties
